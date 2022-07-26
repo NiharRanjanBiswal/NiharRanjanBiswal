@@ -5,7 +5,6 @@
 -->
 <h1 align="center">Hola✌️, I'm NIHAR RANJAN BISWAL</h1>
 <h3 align="center">########A passionate CODER🤖########</h3>
-<img align="right" alt="Coding" width="400" src="https://www.tecmint.com/wp-content/uploads/2016/11/Start-Desktop-Environment-in-Kali-Linux.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharranjanbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="niharranjanbiswal" /> </p>
