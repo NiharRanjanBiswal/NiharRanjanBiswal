@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharranjanbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="niharranjanbiswal" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm....**
-
+- 🌱 I’m currently learning **{DsA,(Computer Networking),C++}**
+- 🕵️‍ I'm Mostly Interested in Digital Security🕵️‍♀️**
 - 📫 How to reach me **niharranjanbiswal901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
