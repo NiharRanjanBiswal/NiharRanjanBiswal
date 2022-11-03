@@ -1,4 +1,5 @@
-<h1 align="center">HELLO WORLD✌️, I'm NIHAR RANJAN BISWAL</h1>
+[![MasterHead](https://i.imgur.com/9uAToG6.png)](https://github.com/NiharRanjanBiswal)
+<h1 align="center">✌️, I'm NIHAR RANJAN BISWAL</h1>
 <h3 align="center">Welcome</h3>
 <img align="right" alt="Coding" width="400" src="https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiIaegGt7S4upfAgF4iaO0T_E1t-CXHOYsW4v04h_LkPUbB0ychPZFaQPD8vlBKuIllv0bwrufdNLBtgi9_YEUyzgb-uNStntcbF6_z0I01NQNoGIEuwGNG8F2RXQIxqSRVkoDWbUF1lLTMBJT1S3YjJeH7cnruO8XYzR_zlFZD9cc5CHztux07lTLB/s728-e100/uber.gif">
 
